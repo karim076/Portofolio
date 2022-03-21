@@ -1,0 +1,21 @@
+/*Reset*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	width: 80%;
+	margin: 0  auto;
+}
+/*header*/
+.leftside{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.icon{
+	width: 100px;
+	height: 100px;
+}
