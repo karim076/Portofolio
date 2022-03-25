@@ -1,5 +1,5 @@
 <header>
-	<a href="#" class="logo">Portofolio</a>
+	<a href="#" class="logo">(Portofolio)</a>
 	<ul>
 		<li><a href="" class="active">Home</a></li>
 		<li><a href="">About me</a></li>
