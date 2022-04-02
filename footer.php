@@ -6,24 +6,21 @@
         <p class="footer-links">
           <a href="" class="link-1">Home</a>
           
-          <a href="#">Blog</a>
+          <a href="#">About me</a>
         
-          <a href="#">Pricing</a>
+          <a href="#">Projects</a>
         
-          <a href="#">About</a>
-          
-          <a href="#">Faq</a>
-          
           <a href="#">Contact</a>
+          
         </p>
 
-        <p class="footer-company-name">Company Name © 2015</p>
+        <p class="footer-company-name">©Karim Alkichouhi © 2022</p>
       </div>
 
       <div class="footer-center">
 
         <div>
-          <i class="fa fa-map-marker"></i>
+          <i class="fa-solid fa-map-location-dot"></i>
           <p><span>Noord-Brabant</span> Breda, Netherlands</p>
         </div>
 
