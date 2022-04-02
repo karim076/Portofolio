@@ -1,8 +1,8 @@
 <header>
 	<a href="#" class="logo">(Portofolio)</a>
 	<ul>
-		<li><a href="" class="active">Home</a></li>
-		<li><a href="#about">About me</a></li>
+		<li><a href="#" class="active">Home</a></li>
+		<li><a href="#aboutus">About me</a></li>
 		<li><a href="#project">Projects</a></li>
 		<li><a href="#contact">Contact</a></li>
 	</ul>
@@ -33,6 +33,8 @@
 		text.style.marginRight = value + 8 + 'px';
 		text.style.marginTop = value + 1.5 + 'px';
 		btn.style.marginTop = value + 1.5 + 'px';
-		header.style.style.top = value + 0.05 + 'px';		
+		header.style.style.top = value + 0.05 + 'px';
+
+
 	}); 
 </script>
