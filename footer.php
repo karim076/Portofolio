@@ -14,7 +14,7 @@
           
         </p>
 
-        <p class="footer-company-name">©Karim Alkichouhi © 2022</p>
+        <p class="footer-company-name">Karim Alkichouhi © 2022</p>
       </div>
 
       <div class="footer-center">
