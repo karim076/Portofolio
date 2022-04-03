@@ -2,7 +2,7 @@
 
       <div class="footer-left">
 
-        <img src="https://logos.textgiraffe.com/logos/logo-name/Karim-designstyle-jungle-l.png">
+        <img src="img/logo.png">
         <p class="footer-links">
           <a href="#logo" >Home</a>
           
@@ -40,7 +40,7 @@
 
         <p class="footer-company-about">
           <span>About me</span>
-          Hi, i am a software developer full of pasion in coding in creativity, i'd love to learn more and more ,so i can specialize my self in my field.
+          Hi, i am a software developer full of pasion in coding and with alot of creativity, i'd love to learn more and more ,so i can specialize my self in my field.
         </p>
 
         <div class="footer-icons">
