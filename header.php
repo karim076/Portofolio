@@ -1,7 +1,7 @@
 <header>
 	<a href="" class="logo">(Portofolio)</a>
 	<ul>
-		<li><a href="" class="active">Home</a></li>
+		<li><a href="#logo" class="active">Home</a></li>
 		<li><a href="#aboutus">About me</a></li>
 		<li><a href="#project">Projects</a></li>
 		<li><a href="#contact">Contact</a></li>
