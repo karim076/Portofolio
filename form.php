@@ -13,7 +13,7 @@
 				
 				<textarea name="msg" id="messarea" placeholder=" Message* " required></textarea>
 
-				<input type="text" name="address" id="address" style="display: none;">
+
 				<input type="submit" value="Send" id="send">
 			</form>
 		</div>
