@@ -44,9 +44,9 @@
         </p>
 
         <div class="footer-icons">
-          <a href="https://twitter.com/AlkichouhiKarim"><i class="fa-brands fa-twitter-square"></i></a>
-          <a href="https://www.linkedin.com/in/karim-alkichouhi-204434165/"><i class="fa-brands fa-linkedin"></i></a>
-          <a href="https://github.com/karim076?tab=overview&from=2022-04-01&to=2022-04-02"><i class="fab fa-github"></i></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/AlkichouhiKarim"><i class="fa-brands fa-twitter-square"></i></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/karim-alkichouhi-204434165/"><i class="fa-brands fa-linkedin"></i></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/karim076?tab=overview&from=2022-04-01&to=2022-04-02"><i class="fab fa-github"></i></a>
 
         </div>
 
