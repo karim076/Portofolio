@@ -176,14 +176,48 @@ section img#mountains_front{
 
 .column{
 	border-radius: 10%;
-	background: grey;
 	width: 25%;
-	height: 400px;
+	height: 450px;
+	background: #d3d3d3;
 }
+.column1{
+	border-radius: 10%;
+	width: 25%;
+	height: 550px;
+	background: #d3d3d3;
+
+
+}
+
+.column1 h4{
+	color: black;
+	padding: 20px;
+}
+.column1 p{
+	color: #1c0522;
+	font-size: 17px;
+	padding: 10px;
+}
+
+
+
+.column h4{
+	color: black;
+	padding: 20px;
+}
+.column p{
+	color: #1c0522;
+	font-size: 17px;
+	padding: 10px;
+}
+
+
 
 .column h4{
 	padding: 30px;
+	color: black;
 }
+
 /*Projecten*/
 .wrapper{
 	width: 80%;
