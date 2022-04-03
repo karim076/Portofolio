@@ -4,7 +4,7 @@
 			Email me
 		</button>
 		<div class = "message">
-			<form method="post" action="contact.php">
+			<form method="POST" action="backend/contactController.php">
 				<input type="text" name="name" id="name" placeholder=" Name* " required>
 
 				<input type="email" name="email" id="email" placeholder=" Email* " required pattern="^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$">
