@@ -58,7 +58,10 @@
 			</div>
 		</div>
 		<div class="sec contact" id="contactme">
-			<?php require_once 'form.php'; ?>
+			<h2>Contact me</h2>
+			<div class="header">
+				<?php require_once 'form.php'; ?>
+			</div>
 		</div>	
 	</main>
 	<?php require_once 'footer.php'; ?>
