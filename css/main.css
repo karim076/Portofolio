@@ -155,7 +155,35 @@ section img#mountains_front{
 	margin-bottom: 10px;
 	color: #fff;
 }
-/**/
+/*About me*/
+.about{
+	text-align: center;
+}
+.pfp{
+	max-width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 75%;
+	border: 3px solid white;
+}
+
+.table{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.column{
+	border-radius: 10%;
+	background: grey;
+	width: 25%;
+	height: 400px;
+}
+
+.column h4{
+	padding: 30px;
+}
 /*Projecten*/
 .wrapper{
 	width: 80%;
