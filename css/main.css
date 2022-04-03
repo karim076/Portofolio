@@ -197,7 +197,9 @@ section img#mountains_front{
 .frame{
 	width: 600px;
 	height: 350px;
-	margin: 250px auto 0;
+	margin: 0 auto;
+	margin-top: 200px;
+	margin-bottom: 150px;
 	position: relative;
 	background: #435d77;
 	border-radius:0 0 40px 40px; 
@@ -216,7 +218,8 @@ section img#mountains_front{
 	border: 2px solid #fff;
 	transition:.3s;
 	text-align: center;
-	font-size: 10px;
+	font-size: 20px;
+	color: black;
 }
 #button_open_envelope:hover{
 	background: #FFf;
