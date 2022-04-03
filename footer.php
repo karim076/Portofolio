@@ -4,7 +4,7 @@
 
         <img src="https://logos.textgiraffe.com/logos/logo-name/Karim-designstyle-jungle-l.png">
         <p class="footer-links">
-          <a href="#" class="link-1">Home</a>
+          <a href="index.php" class="link-1">Home</a>
           
           <a href="#aboutus">About me</a>
         
