@@ -57,7 +57,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="sec contact" id="contactme">
+		<div class="sec contact" id="contact">
 			<h2>Contact me</h2>
 			<div class="header">
 				<?php require_once 'form.php'; ?>
