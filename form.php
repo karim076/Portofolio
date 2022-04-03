@@ -4,16 +4,16 @@
 			Email me
 		</button>
 		<div class = "message">
-			<form method="POST" action="backend/contactController.php">
+			<form method="post" action="contact.php">
 				<input type="text" name="name" id="name" placeholder=" Name* " required>
 
 				<input type="email" name="email" id="email" placeholder=" Email* " required pattern="^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$">
 				
-				<input type="text" name="phone" id="phone" placeholder=" Phone (optional)" autofocus> 
+				<input type="text" name="phone" id="phone" placeholder=" Phone (optional)"> 
 				
 				<textarea name="msg" id="messarea" placeholder=" Message* " required></textarea>
 
-
+				<input type="text" name="address" id="address" style="display: none;">
 				<input type="submit" value="Send" id="send">
 			</form>
 		</div>
