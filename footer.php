@@ -6,11 +6,11 @@
         <p class="footer-links">
           <a href="" class="link-1">Home</a>
           
-          <a href="#">About me</a>
+          <a href="#aboutus">About me</a>
         
-          <a href="#">Projects</a>
+          <a href="#project">Projects</a>
         
-          <a href="#">Contact</a>
+          <a href="#contact">Contact</a>
           
         </p>
 
