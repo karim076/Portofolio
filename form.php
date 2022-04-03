@@ -11,7 +11,7 @@
 				
 				<input type="text" name="phone" id="phone" placeholder=" Phone (optional)" autofocus> 
 				
-				<textarea name="message" id="messarea" placeholder=" Message* " required></textarea>
+				<textarea name="msg" id="messarea" placeholder=" Message* " required></textarea>
 
 				<input type="text" name="address" id="address" style="display: none;">
 				<input type="submit" value="Send" id="send">
