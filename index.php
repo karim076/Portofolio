@@ -30,7 +30,7 @@
 					<p>
 						Sins i was 15 i started coding in python, i builded my first application wich was a quiz game.<br>
 						Sins then i improved alot and got to learn new programming language's and what the differences are between them.<br>
-						<span>🛠skill🛠</span><br>
+						<span>🛠skills🛠</span><br>
 						<td> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML5" width="60px" title="HTML5"/> </td>
 						<td> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="60px" title="CSS3"/> </td>
 						<td> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px" title="JavaScript"/> </td>
@@ -55,7 +55,7 @@
 					When i entered high school i had a choice to look for a specific industry,<br>
 					where i choose ICT, the things i learned where mostly design skills like editing video's,
 					photoshoping and 3d modeling and a little bit of html and css.<br><br>
-					## Design skills<br>
+					💻Design skills💻<br>
 					<img src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" width="80px" title="Adobe Photoshop"/>
 					<img src="https://img.icons8.com/color/344/adobe-illustrator--v1.png" width="80px" title="Adobe AI"/>
 					<img src="https://img.icons8.com/color/344/adobe-xd--v1.png" width="80px" title="Adobe XD"/><br>
