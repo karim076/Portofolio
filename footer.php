@@ -1,20 +1,21 @@
+<?php require_once 'backend/conn.php' ?>
 <footer class="footer-distributed">
 
       <div class="footer-left">
 
-        <img src="img/logo.png">
+        <img src="<?php echo $base_url?>/img/logo.png">
         <p class="footer-links">
-          <a href="#logo" >Home</a>
+          <a href="<?php echo $base_url?>#logo" >Home</a>
           
-          <a href="#aboutus">About me</a>
+          <a href="<?php echo $base_url?>#aboutus">About me</a>
         
-          <a href="#project">Projects</a>
+          <a href="<?php echo $base_url?>#project">Projects</a>
         
-          <a href="#contact">Contact</a>
+          <a href="<?php echo $base_url?>#contact">Contact</a>
           
         </p>
 
-        <p class="footer-company-name">© 2020. Design By Karim Alkichouhi</p>
+        <p class="footer-company-name">© 2022. Design By Karim Alkichouhi</p>
       </div>
 
       <div class="footer-center">
