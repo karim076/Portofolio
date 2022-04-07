@@ -32,11 +32,11 @@
 							</div>
 							<div class="form-group">
 								<label class="form-control-label">PASSWORD</label>
-								<input type="password" class="form-control" i>
+								<input type="password" class="form-control" name="password">
 							</div>
 							<div class="form-group">
 								<label class="form-control-label">REPEAT PASSWORD</label>
-								<input type="password" class="form-control" i>
+								<input type="password" class="form-control" name="passrepeat">
 							</div>
 
 							<div class="col-lg-12 loginbttm">
@@ -44,7 +44,7 @@
 									<!-- Error Message -->
 								</div>
 								<div class="col-lg-6 login-btm login-button">
-									<button type="submit" class="btn btn-outline-primary">LOGIN</button>
+									<button type="submit" class="btn btn-outline-primary" >LOGIN</button>
 								</div>
 							</div>
 						</form>
