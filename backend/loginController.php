@@ -48,6 +48,6 @@
     $_SESSION['user_id'] = $user['id'];
     $_SESSION['user_name'] = $user["username"];
     $_SESSION['name'] = $naming;
-    header("location: $base_url/loginsys/login.php?msg=het werkt");
+    header("location: $base_url/Admin/login.php?msg=het werkt");
     exit;
 ?>
