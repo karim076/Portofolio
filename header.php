@@ -12,7 +12,7 @@
 	<img src="img/moon.png" id="moon" alt="moon">
 	<img src="img/mountains_behind.png" id="mountains_behind" alt="mountains_behind">
 	<h2 id="text">Karim</h2>
-	<a href="loginsys/login.php" id="btn">Login</a>
+	<a href="Admin/login.php" id="btn">Login</a>
 	<img src="img/mountains_front.png" id="mountains_front" alt="mountains_front">
 </section>
 <!-- JavaScript -> movement van top naar rechts en links -->
