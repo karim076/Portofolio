@@ -25,7 +25,7 @@
 
 				<div class="col-lg-12 login-form">
 					<div class="col-lg-12 login-form">
-						<form action="<?php echo $base_url ?>/backend/loginController.php" method="POST">
+						<form action="<?php echo $base_url ?>../backend/loginController.php" method="POST">
 							<div class="form-group">
 								<label class="form-control-label">USERNAME</label>
 								<input type="text" class="form-control" name="username">
