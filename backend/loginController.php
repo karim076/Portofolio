@@ -18,7 +18,7 @@
     //      1. Haal de verbinding erbij
     require_once 'conn.php';
     //      2. Schrijf de query met placeholders (SELECT * FROM users WHERE .......)
-    $query = "SELECT * FROM users WHERE username = :username";
+    $query = "SELECT * FROM admin WHERE username = :username";
 
     //      3. Zet om naar een prepared-statement
     $statement=$conn->prepare($query);
