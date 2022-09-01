@@ -38,7 +38,7 @@
 
     //3. Check of het ingevulde wachtwoord klopt met die uit de DB
     //   Gebruik hiervoor password_verify(), zie evt. http://php.net/password_verify
-    if ( !password_verify($password,$user['password']))
+    if ( !password_verify($password,$user['pass']))
     {
 
         die("Error:wachtwoord niet juist!");
