@@ -10,7 +10,9 @@ Whats new 🤔<br>
 - contact<br>
 - database connection
 ## Improvement
-
+- change website structure
+- more information
+- coming soon
 ## credit
 
 Made by Karim Alkichouhi
